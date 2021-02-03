@@ -4,6 +4,7 @@ Gemfile.lock
 .idea
 .vscode
 _site
+.DS_store
 
 2_data_computation/teacher/docs/lectures
 # Byte-compiled / optimized / DLL files
